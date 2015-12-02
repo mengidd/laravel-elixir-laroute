@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-laroute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to watch laravel routing file and compile them to javascript with laroute command",
   "main": "index.js",
   "keywords": [
