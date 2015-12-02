@@ -1,0 +1,26 @@
+{
+  "name": "laravel-elixir-laroute",
+  "version": "1.0.0",
+  "description": "Package to watch laravel routing file and compile them to javascript with laroute command",
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "laroute"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humbertopiaia/laravel-elixir-laroute"
+  },
+  "author": "Humberto Piaia <betopiaia@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/humbertopiaia/laravel-elixir-laroute",
+  "bugs": {
+    "url": "https://github.com/humbertopiaia/laravel-elixir-laroute/issues"
+  },
+  "dependencies": {
+    "laravel-elixir": "^3.0.0",
+    "gulp": "^3.8.8",
+    "gulp-shell": "^0.5.1"
+  }
+}
