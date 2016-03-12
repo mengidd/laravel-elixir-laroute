@@ -19,7 +19,7 @@
     "url": "https://github.com/humbertopiaia/laravel-elixir-laroute/issues"
   },
   "dependencies": {
-    "laravel-elixir": "^3.0.0",
+    "laravel-elixir": "^5.0.0",
     "gulp": "^3.8.8",
     "gulp-shell": "^0.5.1"
   }
